@@ -113,3 +113,5 @@ C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux, et dis
 ######
 **mv**: commande du terminal GIT qui permet de déplacer ou renommer des fichiers ou dossiers.
 ######
+**nano**: commande du terminal GIT qui permet d'ouvrir un fichier.
+######
