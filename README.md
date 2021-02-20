@@ -1,4 +1,4 @@
-# Lexique du vocabulaire du web
+####### Lexique du vocabulaire du web
 ######
 Ce lexique est un projet récapitulatif afin de me permettre de valider les connaissances et compétences que j'ai acquises durant la semaine 1 de ma formation Developpeur Web.
 ######
@@ -43,4 +43,6 @@ Les bases de données traitent les charges de travail pour se créer et se mettr
 - cd Desktôp: permet de se rendre dans le répertoire Bureau par exemple.
 ######
 **chmod**: Modifie les permissions d'accès à un fichier ou à un répertoire.
+######
+**clear**: permet de nettoyer le terminal, d'y voir plus clair.
 ######
