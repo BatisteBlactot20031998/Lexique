@@ -58,3 +58,5 @@ En utilisant le cloud computing, les utilisateurs et les entreprises n'ont pas �
 ######
 **CSS**: Le CSS correspond à un langage informatique permettant de mettre en forme des pages web
 ######
+**Framework**: En programmation informatique, un framework désigne un ensemble cohérent de composants logiciels structurels, qui sert à créer les fondations ainsi que les grandes lignes de tout ou d’une partie d'un logiciel.
+######
