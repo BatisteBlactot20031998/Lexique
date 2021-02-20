@@ -121,3 +121,5 @@ C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux, et dis
 ######
 **pull request**: commande du terminal GIT qui permet lorsque les commits log s'accumulent de les envoyer sur GITHUB sur la branche master lorsque le code est vraiment propre est réussi.
 ######
+**pwd**: commande du terminal GIT qui permet d'afficher le répertoire de travail où l'on se situe actuellement.
+######
