@@ -99,3 +99,5 @@ C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux, et dis
 ######
 **HTML**: Le HyperText Markup Language, généralement abrégé HTML ou dans sa dernière version HTML5, est le langage de balisage conçu pour représenter les pages web.
 ######
+**Intégrateur web**: l’intégrateur web (également appelé développeur front ou intégrateur HTML) intègre les pages d’un site Internet en traduisant les projets de l’équipe graphique en langage informatique dans le respect des normes et standards en vigueur (W3C notamment).
+######
