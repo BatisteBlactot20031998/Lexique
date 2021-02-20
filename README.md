@@ -37,3 +37,8 @@ Les bases de données traitent les charges de travail pour se créer et se mettr
 ######
 **cat**: commande du terminal GIT affichant le contenu d'un fichier soit: cat + le nom du fichier
 ######
+**cd**: permet de se prommener dans les répertoires.
+- cd: permet de revenir au répertoire Bureau, Document, etc...
+- cd .. : permet de remonter au répertoire parent.
+- cd Desktôp: permet de se rendre dans le répertoire Bureau par exemple.
+######
