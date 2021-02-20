@@ -125,3 +125,8 @@ C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux, et dis
 ######
 **rm**: commande du terminal GIT qui permet de supprimer un fichier ou un dossier (-r).
 ######
+**Serveur**: Un serveur informatique offre des services accessibles via un réseau. 
+Il peut être matériel ou logiciel, c’est un ordinateur qui exécute des opérations suivant les requêtes effectuées par un autre ordinateur appelé client. 
+C’est pourquoi on entend souvent parler de relation client/serveur. 
+Par exemple, un utilisateur va rechercher un site internet en utilisant un navigateur web, pour que ce dernier puisse l’afficher il va effectuer une requête au serveur HTTP qui est un serveur web.
+######
