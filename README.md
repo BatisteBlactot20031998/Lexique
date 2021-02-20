@@ -13,6 +13,7 @@ Ce lexique est un projet récapitulatif afin de me permettre de valider les conn
 **Compétences**
 - Versionner son code à l'aide de GIT
 - Envoyer son code sur GitHub
+
 - Naviguer et manipuler le système de fichiers dans le terminal
 - Mettre en forme du texte à l'aide du langage markdown
 - Chercher des informations en ligne
@@ -45,4 +46,6 @@ Les bases de données traitent les charges de travail pour se créer et se mettr
 **chmod**: Modifie les permissions d'accès à un fichier ou à un répertoire.
 ######
 **clear**: permet de nettoyer le terminal, d'y voir plus clair.
+######
+**client**: Dans un réseau informatique, un client est le logiciel qui envoie des demandes à un serveur. Il peut s'agir d'un logiciel manipulé par une personne, ou d'un bot.
 ######
