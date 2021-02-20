@@ -93,3 +93,5 @@ C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux, et dis
 ######
 **git status**: commande du terminal GIT qui permet de connaître le statut de notre dossier les modifications, la sauvegarde...
 ######
+**GitHub**: A un haut niveau, GitHub est un site web et un service de cloud qui aide les développeurs à stocker et à gérer leur code, ainsi qu’à suivre et contrôler les modifications qui lui sont apportées.
+######
