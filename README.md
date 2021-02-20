@@ -91,3 +91,5 @@ C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux, et dis
 ######
 **git remote add origin**: commande du terminal GIT qui permet d'ajouter le repository comme remote de mon dossier local. Les deux dossiers sont ainsi connectés.
 ######
+**git status**: commande du terminal GIT qui permet de connaître le statut de notre dossier les modifications, la sauvegarde...
+######
