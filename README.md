@@ -1,4 +1,4 @@
-#Lexique du vocabulaire du web
+# Lexique du vocabulaire du Web
 ######
 Ce lexique est un projet récapitulatif afin de me permettre de valider les connaissances et compétences que j'ai acquises durant la semaine 1 de ma formation Developpeur Web.
 ######
