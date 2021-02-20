@@ -85,3 +85,5 @@ C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux, et dis
 ######
 **git log**: commande du terminal GIT qui permet de voir les différentes sauvegardes de que l'on a effectué.
 ######
+**git pull origin master/dev**: commande du terminal GIT qui permet de mettre à jour les branch de notre branch distante à notre branch locale.
+######
