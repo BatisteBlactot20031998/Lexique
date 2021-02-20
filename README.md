@@ -123,3 +123,5 @@ C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux, et dis
 ######
 **pwd**: commande du terminal GIT qui permet d'afficher le répertoire de travail où l'on se situe actuellement.
 ######
+**rm**: commande du terminal GIT qui permet de supprimer un fichier ou un dossier (-r).
+######
