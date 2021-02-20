@@ -135,3 +135,4 @@ Il permet la connexion d'une machine distante (serveur) via une liaison sécuris
 ######
 **touch**: commande du terminal GIT qui permet de créer un nouveau fichier (bien préciser son extension).
 ######
+**whoami**: commande du terminal GIT qui me permet de savoir sur quel utilisateur je travaille en ce momment sur l'ordinateur.
