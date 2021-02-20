@@ -109,3 +109,5 @@ C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux, et dis
 - ls -a: affiche tous les fichiers et répertoires y compris les cachés du répertoire courant.
 - ls Desktop: affiche le contenu du répertoire indiqué.
 ######
+**mkdir**: commande du terminal GIT qui permet de créer un nouveau dossier.
+######
