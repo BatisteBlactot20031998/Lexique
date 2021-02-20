@@ -30,3 +30,8 @@ Ces programmes, installés localement sur le “device”, utilisent les capacit
 ######
 **Back-end**: Le Back-End, c’est la partie du code qui est exécutée par le serveur, il s’agît du travail qu’il réalise sur les pages Web des sites dynamiques avant de les envoyer au client.
 ######
+**Base de données**: Une base de données est une collection d’informations  organisée de manière à pouvoir être facilement consultée, gérée et mise à jour.
+Les données sont organisées en lignes, en colonnes et en tables et sont indexées pour faciliter la recherche d’informations pertinentes. 
+Les données sont mises à jour, développées et supprimées à mesure que de nouvelles informations sont ajoutées. 
+Les bases de données traitent les charges de travail pour se créer et se mettre à jour, interrogeant les données qu’elles contiennent et exécutant les applications correspondantes.
+######
