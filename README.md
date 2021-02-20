@@ -89,3 +89,5 @@ C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux, et dis
 ######
 ** git push origin master/dev**: commande du terminal GIT qui permet d'envoyer sa branch dev ou master sur GitHub.
 ######
+**git remote add origin**: commande du terminal GIT qui permet d'ajouter le repository comme remote de mon dossier local. Les deux dossiers sont ainsi connectés.
+######
