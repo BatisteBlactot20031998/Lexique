@@ -79,3 +79,5 @@ C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux, et dis
 ######
 **git commit -m**: commande du terminal GIT qui permet de faire la sauvegarde de notre fichier et qui permet aussi de le nommer afin de savoir ce qu'on a modifié.
 ######
+**git diff** commande du terminal GIT qui permet de voir avant une sauvegarde la différence des modifications entre avant et après.
+######
