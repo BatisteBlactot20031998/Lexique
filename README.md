@@ -71,3 +71,5 @@ C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux, et dis
 ######
 **git add -A**: commande du terminal GIT qui permet d'ajouter les fichiers non sauvegardés afin de les sauvegarder par la suite.
 ######
+**git branch**: commande du terminal GIT qui permet de voir les différentes branch de mon dossier.
+######
