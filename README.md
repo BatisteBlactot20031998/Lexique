@@ -119,3 +119,5 @@ C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux, et dis
 ######
 **PHP**: c'est un langage de programmation libre, principalement utilisé pour produire des pages Web dynamiques via un serveur HTTP, mais pouvant également fonctionner comme n'importe quel langage interprété de façon locale. PHP est un langage impératif orienté objet.
 ######
+**pull request**: commande du terminal GIT qui permet lorsque les commits log s'accumulent de les envoyer sur GITHUB sur la branche master lorsque le code est vraiment propre est réussi.
+######
