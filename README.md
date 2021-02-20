@@ -115,3 +115,5 @@ C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux, et dis
 ######
 **nano**: commande du terminal GIT qui permet d'ouvrir un fichier.
 ######
+**DNS**: c'est le service informatique distribué utilisé pour traduire les noms de domaine Internet en adresse IP ou autres enregistrements.
+######
