@@ -62,3 +62,7 @@ En utilisant le cloud computing, les utilisateurs et les entreprises n'ont pas �
 ######
 **Front-end**: Le développement web frontal correspond aux productions HTML, CSS et JavaScript d’une page internet ou d’une application qu’un utilisateur peut voir et avec lesquelles il peut interagir directement.
 ######
+**FTP**: est un protocole de communication destiné au partage de fichiers sur un réseau TCP/IP. 
+Il permet, depuis un ordinateur, de copier des fichiers vers un autre ordinateur du réseau, ou encore de supprimer ou de modifier des fichiers sur cet ordinateur. 
+Ce mécanisme de copie est souvent utilisé pour alimenter un site web hébergé chez un tiers.
+######
