@@ -130,3 +130,6 @@ Il peut être matériel ou logiciel, c’est un ordinateur qui exécute des opé
 C’est pourquoi on entend souvent parler de relation client/serveur. 
 Par exemple, un utilisateur va rechercher un site internet en utilisant un navigateur web, pour que ce dernier puisse l’afficher il va effectuer une requête au serveur HTTP qui est un serveur web.
 ######
+**SSH**: Le SSH, pour Secure Shell, désigne à la fois un protocole de communication et un programme informatique. 
+Il permet la connexion d'une machine distante (serveur) via une liaison sécurisée dans le but de transférer des fichiers ou des commandes en toute sécurité.
+######
