@@ -95,3 +95,5 @@ C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux, et dis
 ######
 **GitHub**: A un haut niveau, GitHub est un site web et un service de cloud qui aide les développeurs à stocker et à gérer leur code, ainsi qu’à suivre et contrôler les modifications qui lui sont apportées.
 ######
+**grep**: commande du terminal GIT qui permet de faire une recherche d'une chaîne de caractères dans des fichiers, souvent utilisé en filtre ou avec d'autres commandes.
+######
