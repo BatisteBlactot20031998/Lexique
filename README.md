@@ -35,3 +35,5 @@ Les données sont organisées en lignes, en colonnes et en tables et sont index�
 Les données sont mises à jour, développées et supprimées à mesure que de nouvelles informations sont ajoutées. 
 Les bases de données traitent les charges de travail pour se créer et se mettre à jour, interrogeant les données qu’elles contiennent et exécutant les applications correspondantes.
 ######
+**cat**: commande du terminal GIT affichant le contenu d'un fichier soit: cat + le nom du fichier
+######
