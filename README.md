@@ -83,3 +83,5 @@ C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux, et dis
 ######
 **git init**: commande du terminal GIT qui permet d'initaliser le premier git qui permettra de suivre toute la progression en détail de mon projet.
 ######
+**git log**: commande du terminal GIT qui permet de voir les différentes sauvegardes de que l'on a effectué.
+######
