@@ -66,3 +66,6 @@ En utilisant le cloud computing, les utilisateurs et les entreprises n'ont pas �
 Il permet, depuis un ordinateur, de copier des fichiers vers un autre ordinateur du réseau, ou encore de supprimer ou de modifier des fichiers sur cet ordinateur. 
 Ce mécanisme de copie est souvent utilisé pour alimenter un site web hébergé chez un tiers.
 ######
+**Git**: Git est un logiciel de gestion de versions décentralisé. 
+C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux, et distribué selon les termes de la licence publique générale GNU version 2.
+######
