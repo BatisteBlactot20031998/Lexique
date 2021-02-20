@@ -38,18 +38,21 @@ Les bases de données traitent les charges de travail pour se créer et se mettr
 ######
 **cat**: commande du terminal GIT affichant le contenu d'un fichier soit: cat + le nom du fichier
 ######
-**cd**: permet de se prommener dans les répertoires.
+**cd**: commande du terminal GIT qui permet de se prommener dans les répertoires.
 - cd: permet de revenir au répertoire Bureau, Document, etc...
 - cd .. : permet de remonter au répertoire parent.
 - cd Desktôp: permet de se rendre dans le répertoire Bureau par exemple.
 ######
-**chmod**: Modifie les permissions d'accès à un fichier ou à un répertoire.
+**chmod**: commande du terminal GIT qui modifie les permissions d'accès à un fichier ou à un répertoire.
 ######
-**clear**: permet de nettoyer le terminal, d'y voir plus clair.
+**clear**: commmande du terminal GIT qui permet de nettoyer le terminal, d'y voir plus clair.
 ######
 **client**: Dans un réseau informatique, un client est le logiciel qui envoie des demandes à un serveur. Il peut s'agir d'un logiciel manipulé par une personne, ou d'un bot.
 ######
 **cloud**: Le cloud fait référence aux serveurs accessibles via Internet, ainsi qu'aux logiciels et bases de données qui s'exécutent sur ces serveurs. 
 Les serveurs cloud sont situés dans des datacenters partout dans le monde. 
 En utilisant le cloud computing, les utilisateurs et les entreprises n'ont pas à gérer eux-mêmes les serveurs physiques ni à exécuter des applications logicielles sur leurs propres machines.
+######
+**cp**: commande du terminal GIT qui permet de copier des fichiers ou des répertoires.
+- cp -r: copie un répertoire et tout son contenu, y compris les éventuels sous-répertoires.
 ######
