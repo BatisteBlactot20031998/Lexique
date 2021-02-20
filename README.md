@@ -28,3 +28,5 @@ C'est le numéro d'identification de chaque appareil connecté à un réseau uti
 **Application native**: Les applications mobiles natives sont des programmes développés pour fonctionner sur les systèmes d’exploitation utilisés par les smartphones et tablettes.
 Ces programmes, installés localement sur le “device”, utilisent les capacités de ce dernier, couplées à celui de son OS (Android, IOS), pour pouvoir fonctionner normalement.
 ######
+**Back-end**: Le Back-End, c’est la partie du code qui est exécutée par le serveur, il s’agît du travail qu’il réalise sur les pages Web des sites dynamiques avant de les envoyer au client.
+######
