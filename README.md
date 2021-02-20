@@ -75,3 +75,5 @@ C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux, et dis
 ######
 **git branch dev**: commande du terminal GIT qui permet d'ajouter une nouvelle branch qui se nommera dev.
 ######
+**git checkout dev/master**: commande du terminal GIT qui permet de sortir d'une branch pour aller dans une autre branch.
+######
