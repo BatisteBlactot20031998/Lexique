@@ -133,3 +133,5 @@ Par exemple, un utilisateur va rechercher un site internet en utilisant un navig
 **SSH**: Le SSH, pour Secure Shell, désigne à la fois un protocole de communication et un programme informatique. 
 Il permet la connexion d'une machine distante (serveur) via une liaison sécurisée dans le but de transférer des fichiers ou des commandes en toute sécurité.
 ######
+**touch**: commande du terminal GIT qui permet de créer un nouveau fichier (bien préciser son extension).
+######
