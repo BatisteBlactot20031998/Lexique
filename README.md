@@ -42,3 +42,5 @@ Les bases de données traitent les charges de travail pour se créer et se mettr
 - cd .. : permet de remonter au répertoire parent.
 - cd Desktôp: permet de se rendre dans le répertoire Bureau par exemple.
 ######
+**chmod**: Modifie les permissions d'accès à un fichier ou à un répertoire.
+######
