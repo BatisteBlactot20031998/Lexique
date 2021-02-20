@@ -13,13 +13,12 @@ Ce lexique est un projet récapitulatif afin de me permettre de valider les conn
 **Compétences**
 - Versionner son code à l'aide de GIT
 - Envoyer son code sur GitHub
-
 - Naviguer et manipuler le système de fichiers dans le terminal
 - Mettre en forme du texte à l'aide du langage markdown
 - Chercher des informations en ligne
 - Réaliser un CV
 ######
-Dans un réseau informatique, un client est le logiciel qui envoie des demandes à un serveur. Il peut s'agir d'un logiciel manipulé par une personne, ou d'un bot.## Lexique
+## Lexique
 ######
 Liste:
 ######
@@ -87,7 +86,7 @@ C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux, et dis
 ######
 **git pull origin master/dev**: commande du terminal GIT qui permet de mettre à jour les branch de notre branch distante à notre branch locale.
 ######
-** git push origin master/dev**: commande du terminal GIT qui permet d'envoyer sa branch dev ou master sur GitHub.
+**git push origin master/dev**: commande du terminal GIT qui permet d'envoyer sa branch dev ou master sur GitHub.
 ######
 **git remote add origin**: commande du terminal GIT qui permet d'ajouter le repository comme remote de mon dossier local. Les deux dossiers sont ainsi connectés.
 ######
