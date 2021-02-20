@@ -97,3 +97,5 @@ C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux, et dis
 ######
 **grep**: commande du terminal GIT qui permet de faire une recherche d'une chaîne de caractères dans des fichiers, souvent utilisé en filtre ou avec d'autres commandes.
 ######
+**HTML**: Le HyperText Markup Language, généralement abrégé HTML ou dans sa dernière version HTML5, est le langage de balisage conçu pour représenter les pages web.
+######
