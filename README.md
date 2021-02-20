@@ -69,3 +69,5 @@ Ce mécanisme de copie est souvent utilisé pour alimenter un site web hébergé
 **Git**: Git est un logiciel de gestion de versions décentralisé. 
 C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux, et distribué selon les termes de la licence publique générale GNU version 2.
 ######
+**git add -A**: commande du terminal GIT qui permet d'ajouter les fichiers non sauvegardés afin de les sauvegarder par la suite.
+######
