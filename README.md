@@ -77,3 +77,5 @@ C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux, et dis
 ######
 **git checkout dev/master**: commande du terminal GIT qui permet de sortir d'une branch pour aller dans une autre branch.
 ######
+**git commit -m**: commande du terminal GIT qui permet de faire la sauvegarde de notre fichier et qui permet aussi de le nommer afin de savoir ce qu'on a modifié.
+######
