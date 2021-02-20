@@ -101,3 +101,5 @@ C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux, et dis
 ######
 **Intégrateur web**: l’intégrateur web (également appelé développeur front ou intégrateur HTML) intègre les pages d’un site Internet en traduisant les projets de l’équipe graphique en langage informatique dans le respect des normes et standards en vigueur (W3C notamment).
 ######
+**JavaScript**: JavaScript est un langage de programmation de scripts principalement employé dans les pages web interactives et à ce titre est une partie essentielle des applications web.
+######
