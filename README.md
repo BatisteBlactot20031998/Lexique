@@ -87,3 +87,5 @@ C'est un logiciel libre créé par Linus Torvalds, auteur du noyau Linux, et dis
 ######
 **git pull origin master/dev**: commande du terminal GIT qui permet de mettre à jour les branch de notre branch distante à notre branch locale.
 ######
+** git push origin master/dev**: commande du terminal GIT qui permet d'envoyer sa branch dev ou master sur GitHub.
+######
