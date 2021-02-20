@@ -60,3 +60,5 @@ En utilisant le cloud computing, les utilisateurs et les entreprises n'ont pas �
 ######
 **Framework**: En programmation informatique, un framework désigne un ensemble cohérent de composants logiciels structurels, qui sert à créer les fondations ainsi que les grandes lignes de tout ou d’une partie d'un logiciel.
 ######
+**Front-end**: Le développement web frontal correspond aux productions HTML, CSS et JavaScript d’une page internet ou d’une application qu’un utilisateur peut voir et avec lesquelles il peut interagir directement.
+######
